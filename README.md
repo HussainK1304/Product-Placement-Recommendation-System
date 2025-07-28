@@ -93,7 +93,7 @@ This layout strategy improves navigation and maximizes conversion.
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Hussain Kachwala
 📧 Email Me: hussainkachwala1304@gmail.com
